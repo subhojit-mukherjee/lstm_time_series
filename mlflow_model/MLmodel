@@ -1,0 +1,8 @@
+flavors:
+  keras:
+    keras_version: 2.2.2
+  python_function:
+    data: model.h5
+    loader_module: mlflow.keras
+    python_version: 3.6.6
+utc_time_created: '2018-08-28 15:34:30.746546'
